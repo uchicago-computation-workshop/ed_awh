@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/ed_awh/blob/master/rhythmic_brain_activity.pdf""> Rhythmic brain activity tracks the timing and content of online spatial representations </a>
+  <a href="https://github.com/uchicago-computation-workshop/ed_awh/blob/master/rhythmic_brain_activity.pdf"> Rhythmic brain activity tracks the timing and content of online spatial representations </a>
 </h2>
 
 <br>
